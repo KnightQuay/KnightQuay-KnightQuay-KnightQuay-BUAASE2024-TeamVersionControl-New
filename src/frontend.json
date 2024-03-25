@@ -11,6 +11,18 @@
         {
             "name": "Angular",
             "link": "https://angular.cn/"
+        },
+        {
+            "name": "Snapsvg",
+            "link": "http://snapsvg.io/"
+        },
+        {
+            "name": "d3",
+            "link": "https://d3js.org/"
+        },
+        {
+            "name": "Mathjax",
+            "link": "https://www.mathjax.org/"
         }
     ]
 }
