@@ -1,2 +1,0 @@
-name: 吟游者
-description: 我是吟游者，热爱JavaScript，因为JS太可爱了。
